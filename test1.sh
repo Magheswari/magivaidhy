@@ -1,3 +1,3 @@
-Hello Guys
-Git is important 
-Keep practising
+echo "Hello Guys"
+echo "Git is important"
+echo "Keep practising"
